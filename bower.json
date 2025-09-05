@@ -1,0 +1,21 @@
+{
+  "name": "mark-jobs",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mark"
+  ],
+  "license": "-",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.6.0",
+    "fontawesome": "^5.15.3",
+    "simple-line-icons": "^2.5.5",
+    "jquery-slimscroll": "^1.3.8",
+    "jquery-validation": "^1.19.3",
+    "moment": "^2.29",
+    "jquery-timepicker-wvega": "^1.3.5"
+  }
+}
